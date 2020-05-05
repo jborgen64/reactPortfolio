@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/jborgen64/reactPortfolio/issues"
   },
-  "homepage": "https://github.com/jborgen64/reactPortfolio"
+  "homepage": "https://github.com/jborgen64/reactPortfolio",
+  "dependencies": {
+    "concurrent": "^0.3.2",
+    "if-env": "^1.0.4",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0"
 }
