@@ -1,0 +1,44 @@
+[
+   {
+        "id": 1,
+        "name": "Find Books App",
+        "image": "./images/books.png",
+        "link": "https://jborgen64.github.io/Project-1/"
+    },
+    {
+        "id": 2,
+        "name": "Burger App",
+        "image": "./images/burgerapp.png",
+        "link": "https://jborgen64.github.io/burgerapp/"
+    },
+    { 
+        "id": 3, 
+        "name": "Comic Finder App",
+        "image": "./images/comic.png",
+        "link": "https://jborgen64.github.io/runTimeTerrors/"
+    },
+    {
+        "id": 4,
+        "name": "Notetaker App",
+        "image": "./images/notetaker.png",
+        "link": "https://jborgen64.github.io/note-taker/"
+    },
+    {
+        "id": 5,
+        "name": "Coding Quiz App",
+        "image": "./images/quiz.png",
+        "link": "https://jborgen64.github.io/jrb-coding-quiz/"
+    },
+    {
+        "id": 6,
+        "name": "Scheduler App",
+        "image": "./images/scheduler.png",
+        "link": "https://jborgen64.github.io/neat-calendar/"
+    },
+    {
+        "id": 7,
+        "name": "Weather App",
+        "image": "./images/weather.png",
+        "link": "https://jborgen64.github.io/Ol-Weather-Teller/"
+    }
+]
